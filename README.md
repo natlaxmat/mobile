@@ -17,12 +17,11 @@
 
 [Ссылка на отчёт (ENG)](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
 
-Перехват и мзменение трафика
+Перехват и изменение трафика
 
-[Сссылка на видео с заданием 1](https://github.com/natlaxmat/mobile/blob/main/1.Delete_Item_emulator.mp4)
+[Ссылка на видео для задания 1](https://github.com/natlaxmat/mobile/blob/main/1.Delete_Item_emulator.mp4)
 
-[Ссылка на видео с заданием 2](https://github.com/natlaxmat/mobile/blob/main/2.Map_local_emulator.mp4)
+[Ссылка на видео для задания 2](https://github.com/natlaxmat/mobile/blob/main/2.Map_local_emulator.mp4)
 
-[Ссылка на скриншот с заданием 3](https://github.com/natlaxmat/mobile/blob/main/3.Screenshot_user_agent.png)
-
+[Ссылка на скриншот для задания 3](https://github.com/natlaxmat/mobile/blob/main/3.Screenshot_user_agent.png)
 

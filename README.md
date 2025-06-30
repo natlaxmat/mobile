@@ -17,4 +17,16 @@
 
 [Ссылка на отчёт (ENG)](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
 
+Перехват и изменение трафика
 
+[Ссылка на видео для задания 1.1](https://github.com/natlaxmat/mobile/blob/main/1.1.Breakpoints_emulator.mp4)
+
+[Ссылка на видео для задания 1.2](https://github.com/natlaxmat/mobile/blob/main/1.2.Rewrite_emulator.mp4)
+
+[Ссылка на видео для задания 1.3](https://github.com/natlaxmat/mobile/blob/main/1.3.Map_remote_emulator.mp4)
+
+[Ссылка на видео для задания 2.1](https://github.com/natlaxmat/mobile/blob/main/2.1.Delete_Item_emulator.mp4)
+
+[Ссылка на видео для задания 2.2](https://github.com/natlaxmat/mobile/blob/main/2.2.Map_local_emulator.mp4)
+
+[Ссылка на видео для задания 2.3](https://github.com/natlaxmat/mobile/blob/main/2.3.Screenshot_user_agent.png)

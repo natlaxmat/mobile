@@ -1,5 +1,5 @@
-# mobile 
-## 📱 **Mobile testing** ##
+# 📱 mobile 
+## **Mobile testing** ##
 
 _I tested the ['Shopping-list'](https://drive.google.com/file/d/1wSz1J4Ba-VDgjv82RIk59EaQ1Ys16ph8/view?usp=share_link) Android mobile application.
 For testing I used an emulator "Android Studio". Here are some results of my work:_
@@ -14,7 +14,7 @@ For testing I used an emulator "Android Studio". Here are some results of my wor
 
 - [Test summary report](https://github.com/natlaxmat/mobile/blob/main/Test_Report_Shopping-list_app.pdf)
 
- 🕵️‍♀️ **Interception and modification of traffic**
+## **Interception and modification of traffic** ##
 
 _During my QA practice, I used tools like Charles Proxy to inspect and modify HTTP requests and responses.
 I ran various test scenarios for the [demoshopping.ru](https://demoshopping.ru/) app on mobile browser:_

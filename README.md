@@ -12,7 +12,7 @@ For testing I used an emulator "Android Studio". Here are some results of my wor
 
 - [Bug-report example](https://github.com/natlaxmat/mobile/blob/main/Issues.xlsx) 
 
-- [Test summary report](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
+- [Test summary report](https://github.com/natlaxmat/mobile/blob/main/Test_Report_Shopping-list_app.pdf)
 
  🕵️‍♀️ **Interception and modification of traffic**
 

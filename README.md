@@ -1,27 +1,28 @@
 # mobile 
-**Тестирование мобильных приложений**
+## 📱 **Mobile testing** ##
 
-Создание чек-листов и тест-кейсов для тестирования мобильных приложений
+_I tested the ['Shopping-list'](https://drive.google.com/file/d/1wSz1J4Ba-VDgjv82RIk59EaQ1Ys16ph8/view?usp=share_link) Android mobile application.
+For testing I used an emulator "Android Studio". Here are some results of my work:_
 
-[Ссылка на Google таблицу с чек-листом](https://docs.google.com/spreadsheets/d/1LhaagjiA-W0c3WCkDtFrg8dg2NM8OtHbf35V_ffDDYU/edit?pli=1&gid=0#gid=0)
+- [Ckecklist](https://docs.google.com/spreadsheets/d/1LhaagjiA-W0c3WCkDtFrg8dg2NM8OtHbf35V_ffDDYU/edit?pli=1&gid=0#gid=0) 
 
-[Ссылка на PDF файл с тест-кейсами](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
+- [Trest cases](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf) 
 
-Тестирование мобильного приложения
+- [Test run](https://github.com/natlaxmat/mobile/blob/main/G10-Express%2Brun%2Bmobile_app.pdf)
 
-[Сссылка на отчёт о дефектах](https://github.com/natlaxmat/mobile/blob/main/Issues.xlsx)
+- [Bug-report example](https://github.com/natlaxmat/mobile/blob/main/Issues.xlsx) 
 
-[Ссылка на тестовый прогон](https://github.com/natlaxmat/mobile/blob/main/G10-Express%2Brun%2Bmobile_app.pdf)
+- [Test summary report](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
 
-Создание отчета по результатам тестирования
+ 🕵️‍♀️ **Interception and modification of traffic**
 
-[Ссылка на отчёт (ENG)](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
+_During my QA practice, I used tools like Charles Proxy to inspect and modify HTTP requests and responses.
+I ran various test scenarios for the [demoshopping.ru](https://demoshopping.ru/) app on mobile browser:_
 
-Перехват и изменение трафика
+- [Breackpoints proxy Tool](https://github.com/natlaxmat/mobile/blob/main/1.Delete_Item_emulator.mp4) for the [Task 1](https://github.com/natlaxmat/mobile/blob/main/Task_1.txt)
 
-[Ссылка на видео для задания 1](https://github.com/natlaxmat/mobile/blob/main/1.Delete_Item_emulator.mp4)
+- [Map local Tool](https://github.com/natlaxmat/mobile/blob/main/2.Map_local_emulator.mp4) for the [Task 2](https://github.com/natlaxmat/mobile/blob/main/Task_2.txt)
 
-[Ссылка на видео для задания 2](https://github.com/natlaxmat/mobile/blob/main/2.Map_local_emulator.mp4)
+- [Screenshot User Agent](https://github.com/natlaxmat/mobile/blob/main/3.Screenshot_user_agent.png) for the [Task3](https://github.com/natlaxmat/mobile/blob/main/Task_3.txt)
 
-[Ссылка на скриншот для задания 3](https://github.com/natlaxmat/mobile/blob/main/3.Screenshot_user_agent.png)
 

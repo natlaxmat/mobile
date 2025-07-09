@@ -1,27 +1,28 @@
-# mobile 
-**Тестирование мобильных приложений**
+# 📱 mobile 
+## **Mobile testing** ##
 
-Создание чек-листов и тест-кейсов для тестирования мобильных приложений
+_I tested the ['Shopping-list'](https://drive.google.com/file/d/1wSz1J4Ba-VDgjv82RIk59EaQ1Ys16ph8/view?usp=share_link) Android mobile application.
+For testing I used an emulator "Android Studio". Here are some results of my work:_
 
-[Ссылка на Google таблицу с чек-листом](https://docs.google.com/spreadsheets/d/1LhaagjiA-W0c3WCkDtFrg8dg2NM8OtHbf35V_ffDDYU/edit?pli=1&gid=0#gid=0)
+- [Ckecklist](https://docs.google.com/spreadsheets/d/1g4bUHvytIgap0aQVGxsUL20lg7t18XV2HyW1BCRtl1c/edit?usp=sharing) 
 
-[Ссылка на PDF файл с тест-кейсами](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
+- [Trest cases](https://drive.google.com/file/d/1w5c7nWQhaGqEhWz7hAR6jWkiOI2DCCrX/view?usp=sharing) 
 
-Тестирование мобильного приложения
+- [Test run](https://drive.google.com/file/d/1GC-BtEDReMz036umeipbb1qLJaGLT19_/view?usp=sharing)
 
-[Сссылка на отчёт о дефектах](https://github.com/natlaxmat/mobile/blob/main/Issues.xlsx)
+- [Bug report example](https://drive.google.com/file/d/1i5SiMrkn5XwKNHPgeoTYtsODmB2zDVNU/view?usp=sharing) 
 
-[Ссылка на тестовый прогон](https://github.com/natlaxmat/mobile/blob/main/G10-Express%2Brun%2Bmobile_app.pdf)
+- [Test summary report](https://drive.google.com/file/d/1y3GdyxX5CjglD46ar1zLCmBYgiE3pBbQ/view?usp=sharing)
 
-Создание отчета по результатам тестирования
+## **Interception and modification of traffic** ##
 
-[Ссылка на отчёт (ENG)](https://github.com/natlaxmat/mobile/blob/main/Mobile_app_test_cases.pdf)
+_During my QA practice, I used tools like Charles Proxy to inspect and modify HTTP requests and responses.
+I ran various test scenarios for the [demoshopping.ru](https://demoshopping.ru/) app on mobile browser:_
 
-Перехват и изменение трафика
+- [Breackpoints proxy Tool](https://drive.google.com/file/d/1iTGBrlp4aW31yy-_DpkN0MDvAXWgJDC_/view?usp=sharing) for the [Task 1](https://drive.google.com/file/d/1AUVt5K6oDPv5RmCNOEVSxu5OQCQc-xjV/view?usp=sharing)
 
-[Ссылка на видео для задания 1](https://github.com/natlaxmat/mobile/blob/main/1.Delete_Item_emulator.mp4)
+- [Map local Tool](https://drive.google.com/file/d/1K1juMYKl1bCNRQuImhS3hAcYKRfVvund/view?usp=sharing) for the [Task 2](https://drive.google.com/file/d/1WnbT5qgTWKEquwgeEEd4xknPr6aQYpA_/view?usp=sharing)
 
-[Ссылка на видео для задания 2](https://github.com/natlaxmat/mobile/blob/main/2.Map_local_emulator.mp4)
+- [Screenshot User Agent](https://drive.google.com/file/d/11QLlxP3Gfmy3jtXATzPOlIdFaVhm76Oh/view?usp=sharing) for the [Task3](https://drive.google.com/file/d/10JeR6kfcwlUVodTOsPi-bu-ixlDoLnFQ/view?usp=sharing)
 
-[Ссылка на скриншот для задания 3](https://github.com/natlaxmat/mobile/blob/main/3.Screenshot_user_agent.png)
 
